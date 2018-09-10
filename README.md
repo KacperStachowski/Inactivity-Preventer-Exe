@@ -1,10 +1,13 @@
 #######################################################
+
 INACTIVITY PREVENTER
 
 Created by: Kacper Stachowski (k.stachowski92@gmail.com)
+
 Art by: Kaja Kosmala (nemezis1314@gmail.com)
 
 Exe downloaded from: https://github.com/KacperStachowski/Inactivity-Preventer-Exe
+
 Code can be found at: https://github.com/KacperStachowski/Inactivity-Preventer
 
 
@@ -13,6 +16,7 @@ Inactivity Preventer is a simple desktop application that prevents PC and Skype 
 It moves a mouse pointer for a number of times randomly picked from a range selected by the user in interval selected from range of 5 to 300 seconds. Each action can also be configured to write some text per each mouse move.
 
 #######################################################
+
 PROPERTIES:
 
 * Actions per loop: [X] - [Y] 
