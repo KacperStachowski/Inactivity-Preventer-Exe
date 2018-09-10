@@ -27,10 +27,10 @@ Defines a range of numbers from which a random number of actions to be performed
 
 <h3>Use keyboar while performing action</h4>
 
-* Defines if each action in an actions set will also consist of inputting a text from [Text written per action:] textbox. If this checkbox is selected, a text will be typed automatically after each mouse move while performing action, as many times as actions number selected from [Actions per loop:] range.
+* Defines if each action in an actions set will also consist of inputting a text from <b>[Text written per action:]</b> textbox. If this checkbox is selected, a text will be typed automatically after each mouse move while performing action, as many times as actions number selected from <b>[Actions per loop:]</b> range.
 
-<h3>!TIP</h3>
+<h3>TIP</h3>
 While Inactivity Preventer is working, it will type text to a currently active window, meaning that if an user starts the application and clicks on something else like notepad or a website, the application will type text into the currently active window. Remember to focus Inactivity Preventer window when you are not working on your PC. 
 
-<h3>!TIP</h3>
+<h3>TIP</h3>
 In some cases using keyboard while performing actions will be required to keep your PC and Skype from going inactive.
