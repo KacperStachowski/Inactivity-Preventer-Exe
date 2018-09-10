@@ -1,7 +1,7 @@
 <h1>INACTIVITY PREVENTER</h1>
 
 <b>Created by:</b> Kacper Stachowski (k.stachowski92@gmail.com)</br>
-<b>Art by:</b> Kaja Kosmala (nemezis1314@gmail.com)</br>
+<b>Art by:</b> Kaja Kosmala (thekoskaya@gmail.com)</br>
 <b>Exe downloaded from:</b> https://github.com/KacperStachowski/Inactivity-Preventer-Exe</br>
 <b>Code can be found at:</b> https://github.com/KacperStachowski/Inactivity-Preventer
 
