@@ -36,4 +36,5 @@ Defines a range of numbers from which a random number of actions to be performed
 * In some cases using keyboard while performing actions will be required to keep your PC and Skype from going inactive.
 
 [![paypal](https://lh3.googleusercontent.com/qf5qI-paPOHcIJFfe615weNK0a2I9Xq6Ygzqs8mhDTApf_x-6U4nLwors3wGItbXdtAMJLBMCjvGA0a_lVV02ECT0-GwLPKeobyzcFK3Jp7UttmPA8qj7s09ojeA1NrZUxOFbHxIxB-Ei0rrw1O1IBsvsETHVAKTfwEUDqxrC2N3QZ-2qX-Yhx4Kn9HOc1geyKd7rcfwCJdVLHuoXrz4l3UTY02yXALjy8sQwVFdk9gxuKIWrfbPaROJL3uWNIEp4AE3pSZ0kihIvjU6vcHS5gBMnvgIosNZpFOJy0b6GkeXYq4U7T_D3Vm5Qe42rBqedgo--HbdIcGMJkQYhSAe7J5ISe5qFoaeZWBI1cB-x0m2Zv3P_10NJEAWsYwx5amS-Cbud08iPcauayk3RRby_M3ece_eLZ-599chBn7foRZB5eSuImsJtPvyxu-OTpx47XWShgSnF3bR_JIzzEZlJaPI9YithiJkbVot1x3i_UUA7QNfCqrvy9zAMjXILHcxgsYoa2IzVA7waytrj3SzfYatNylOJtcwLR6p5YIQb1M8hJi5_dtWuvarOqQYhXw8MYupVp3-3IimkcZFA7B8ATx1GwKn4ZjrS400yJwrZcdDvyaOm5VK2xLpwT4mbw=w442-h150-no)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TH8RRMKGP7GZN)
+
 <strong><a href="https://www.paypal.me/KacperStachowski">Or use my PayPal.Me link</a></strong>
